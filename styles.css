@@ -1,0 +1,51 @@
+body {
+    background-color: #f0f0f0;
+    margin: 40px;
+    font-family: "Roboto", sans-serif;
+  }
+  
+  header {
+    display: flex;
+    justify-content: flex-end;
+  }
+  
+  .header-itens {
+    margin-left: 16px;
+    margin-right: 24px;
+  }
+  
+  .about-text {
+    width: 35%;
+    margin-top: 12%;
+    margin-left: 18%;
+  }
+  
+  .social-media-icons {
+    margin-left: 18%;
+  }
+  
+  .name-text {
+    font-family: "Lato", sans-serif;
+    color: #ee4a57;
+    font-weight: 900;
+  }
+  
+  .role-text {
+    font-family: "Lato", sans-serif;
+    font-weight: 900;
+  }
+  
+  .fab {
+    margin: 16px 12px 0px 0px;
+    font-size: 24px;
+    width: 50px;
+    text-decoration: none;
+  }
+  
+  .fab:hover {
+    color: #ee4a57;
+  }
+  
+  a:visited {
+    color: #000000;
+  }
